@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "917090488591",
+    "project_id": "xsales-275bd",
+    "storage_bucket": "xsales-275bd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:917090488591:android:04e303f90ae38b0c6eae7a",
+        "android_client_info": {
+          "package_name": "com.example.sevenxsales"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "917090488591-jqrd9s9ajeqk55uj2ddmomhs6611iufl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.sevenxsales",
+            "certificate_hash": "a71a7a59f21698fd07e8f711b209e7800b1a65a4"
+          }
+        },
+        {
+          "client_id": "917090488591-4ja2iga1e2bjgij3i14gnbehepi1g8vg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCg_xyoFYCnEXbpuM1lsKDB1XF-e9wqZkU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "917090488591-4ja2iga1e2bjgij3i14gnbehepi1g8vg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
